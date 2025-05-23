@@ -6,11 +6,11 @@ O objetivo foi extrair dados de um arquivo Excel e padronizar conforme o padrão
 
 ✅ Descrição do Desafio
 
-  1.Extrair dados de arquivos Excel.
+  1. Extrair dados de arquivos Excel.
   
-  2.Realizar transformações e padronizações nos dados.
+  2. Realizar transformações e padronizações nos dados.
   
-  3.Exportar o resultado final em um formato adequado para utilização interna.
+  3. Exportar o resultado final em um formato adequado para utilização interna.
 
 📥 Como baixar os arquivos de dados
 
@@ -19,4 +19,4 @@ O objetivo foi extrair dados de um arquivo Excel e padronizar conforme o padrão
     
 Após o download, mova os arquivos para as pastas corretas.
 
-Clone o repositório: git clone https://github.com/seu-usuario/engenharia-de-dados-desafio.git
+Clone o repositório: git clone https://github.com/reediias/engenharia_dados.git
