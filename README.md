@@ -12,8 +12,8 @@ O objetivo foi extrair dados de um arquivo Excel e padronizar conforme o padrão
 📥 Como baixar os arquivos de dados
 
   Baixe os arquivos Excel necessários através deste link:
-  ➡️ Google Drive - Arquivos Excel
+  ➡️ Google Drive - https://drive.google.com/drive/folders/1mQr61gSDnc141Agbe9ZtEPuKD981m_f0?usp=drive_link
     
-Após o download, mova os arquivos para a pasta
+Após o download, mova os arquivos para as pastas corretas.
 
 Clone o repositório: git clone https://github.com/seu-usuario/engenharia-de-dados-desafio.git
