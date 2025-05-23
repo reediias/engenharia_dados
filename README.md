@@ -1,4 +1,5 @@
 🛠️ Engenharia de Dados - Desafio de Estágio
+
 Este desafio foi realizado como parte do processo seletivo para uma vaga de Estágio em Engenharia de Dados.
 
 O objetivo foi extrair dados de um arquivo Excel e padronizar conforme o padrão da empresa, utilizando a biblioteca Pandas.
@@ -6,7 +7,9 @@ O objetivo foi extrair dados de um arquivo Excel e padronizar conforme o padrão
 ✅ Descrição do Desafio
 
   1.Extrair dados de arquivos Excel.
+  
   2.Realizar transformações e padronizações nos dados.
+  
   3.Exportar o resultado final em um formato adequado para utilização interna.
 
 📥 Como baixar os arquivos de dados
